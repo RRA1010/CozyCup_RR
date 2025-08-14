@@ -48,7 +48,11 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
+<<<<<<< HEAD
     color: white;
+=======
+    color: black;
+>>>>>>> cozycup
 }
 
 .hero h1 {
