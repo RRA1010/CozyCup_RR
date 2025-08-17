@@ -6,7 +6,7 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
+    background-color: #fff3cf;
     color: #4c3c32;
 }
 
@@ -79,10 +79,47 @@ nav a:hover {
     text-align: center;
 }
 
-.menu h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
+/*Flex or Grid??
+.menu_container {
+    padding: 20px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    
+}*/
+
+.menu_container {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 20px; /* spacing between items */
+    justify-items: center;
+    align-items: center;
 }
+
+
+
+.testimonials {
+    background-color: #fdf6f0;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.testimonial-container blockquote {
+    font-style: italic;
+    margin: 20px auto;
+    max-width: 600px;
+    color: #444;
+}
+
+.testimonial-container cite {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #777;
+}
+
+
 
 .about {
     padding: 100px 0;
