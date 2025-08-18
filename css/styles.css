@@ -122,23 +122,48 @@ nav a:hover {
 
 
 /*Flex or Grid??*/
-.coffee_container {
-    display: flex;
-    flex-wrap: wrap;
-}
-.coffee_container > div {
-    border-color: black;
-    padding: 10px;
-    margin: 10px;
-}
-.coffe_container > div:hover {
-    scale: 1.1%;
+.coffee_container,
+.food_container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    gap: 24px;
+    justify-items: center;
+    margin: 30px 0;
 }
 
-.coffee_container > div > img {
-    height: 200px;
+.coffee_container > div,
+.food_container > div {
+    background: #fff;
+    border: 1px solid #e9cfa0;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 0 2px 8px rgba(76,60,50,0.1);
+    padding: 16px;
     width: 200px;
+    text-align:center;
 }
+
+.coffe_container > div:hover,
+.food_container {
+    transform: scale(1.05);
+    box-shadow:0 4px 16px rgba(76,60,50,0.15);
+}
+
+.coffee_container img,
+.food_container img {
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.coffee_container p,
+.food_container p {
+    font-size: 16px;
+    color: #7e685b;
+}
+
 .about {
     padding: 100px 0;
     text-align: center;
