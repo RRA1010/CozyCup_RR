@@ -12,10 +12,10 @@ to create a sample website of a coffee shop.
 
 ## CozyCup Sample Images
 
-![Screenshot CozyCup Page 1!](img\screenshot_1.png)
-![Screenshot CozyCup Page 1!](img\screenshot_2.png)
-![Screenshot CozyCup Page 1!](img\screenshot_3.png)
-![Screenshot CozyCup Page 1!](img\screenshot_4.png)
+![Screenshot CozyCup Page 1!](https://github.com/RRA1010/CozyCup_RR/tree/main/img/screenshot_1.png)
+![Screenshot CozyCup Page 1!](https://github.com/RRA1010/CozyCup_RR/tree/main/img/screenshot_2.png)
+![Screenshot CozyCup Page 1!](https://github.com/RRA1010/CozyCup_RR/tree/main/img/screenshot_3.png)
+![Screenshot CozyCup Page 1!](https://github.com/RRA1010/CozyCup_RR/tree/main/img/screenshot_4.png)
 
 ## Project Developers
 Github Account: [RRA1010](https://github.com/RRA1010)   
