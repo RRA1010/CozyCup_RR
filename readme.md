@@ -3,23 +3,20 @@
 Project CozyCup Cafe is a collaboration of ideas
 to create a sample website of a coffee shop.
 
-### Features
+## Features
 
-- Coffee Menu
-- Food Menu
-- Testimonials
-- Grid type display of products
+- 1
+- 2
+- 3
+- 4
 
 ## CozyCup Sample Images
 
-![Screenshot CozyCup Page 1!](img\screenshot_1.png)
-![Screenshot CozyCup Page 1!](img\screenshot_2.png)
-![Screenshot CozyCup Page 1!](img\screenshot_3.png)
-![Screenshot CozyCup Page 1!](img\screenshot_4.png)
+## Collaborators
+Name:  
+Github Account:  
+Email:  
 
-## Project Developers
-Github Account: [RRA1010](https://github.com/RRA1010)   
-Email: rasdf@gmail.com
-
-Github Account: [Deib14](https://github.com/Deib14)  
-Email: deib14@gmail.com
+Name:  
+Github Account:  
+Email:  
