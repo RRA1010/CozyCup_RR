@@ -82,7 +82,6 @@ nav a:hover {
     text-align: center;
 }
 
-<<<<<<< HEAD
 /*Flex or Grid??
 .menu_container {
     padding: 20px;
@@ -100,8 +99,6 @@ nav a:hover {
     justify-items: center;
     align-items: center;
 }
-
-
 
 .testimonials {
     background-color: #fdf6f0;
@@ -124,8 +121,6 @@ nav a:hover {
 }
 
 
-
-=======
 /*Flex or Grid??*/
 .coffee_container {
     display: flex;
@@ -144,7 +139,6 @@ nav a:hover {
     height: 200px;
     width: 200px;
 }
->>>>>>> dcfc3da24f7881a2fa8d24cebd02e69ef04e44f2
 .about {
     padding: 100px 0;
     text-align: center;

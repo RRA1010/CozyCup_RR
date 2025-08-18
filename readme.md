@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Project Description
-
-## CozyCup Cafe
-
-=======
 # Project CozyCup Cafe
 
 Project CozyCup Cafe is a collaboration of ideas
@@ -26,4 +20,3 @@ Email:
 Name:  
 Github Account:  
 Email:  
->>>>>>> dcfc3da24f7881a2fa8d24cebd02e69ef04e44f2
