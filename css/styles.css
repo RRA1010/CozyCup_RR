@@ -82,15 +82,6 @@ nav a:hover {
     text-align: center;
 }
 
-/*Flex or Grid??
-.menu_container {
-    padding: 20px;
-    display: grid;
-    justify-items: center;
-    align-items: center;
-    
-}*/
-
 .menu_container {
     padding: 20px;
     display: grid;
@@ -119,7 +110,6 @@ nav a:hover {
     font-weight: bold;
     color: #777;
 }
-
 
 /*Flex or Grid??*/
 .coffee_container,
