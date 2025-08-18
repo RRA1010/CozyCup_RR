@@ -60,6 +60,9 @@ nav a:hover {
     font-size: 18px;
     margin-bottom: 40px;
 }
+#home {
+    background-color: rgb(255, 248, 235);
+}
 
 .cta-button {
     display: inline-block;
@@ -79,6 +82,7 @@ nav a:hover {
     text-align: center;
 }
 
+<<<<<<< HEAD
 /*Flex or Grid??
 .menu_container {
     padding: 20px;
@@ -121,6 +125,26 @@ nav a:hover {
 
 
 
+=======
+/*Flex or Grid??*/
+.coffee_container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.coffee_container > div {
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+.coffe_container > div:hover {
+    scale: 1.1%;
+}
+
+.coffee_container > div > img {
+    height: 200px;
+    width: 200px;
+}
+>>>>>>> dcfc3da24f7881a2fa8d24cebd02e69ef04e44f2
 .about {
     padding: 100px 0;
     text-align: center;
